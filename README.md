@@ -1,10 +1,10 @@
 # Overview
 
-General description of repo
+![alt text](https://i.ytimg.com/vi/S5JDPi_6N2s/maxresdefault.jpg)
+
+General description of folder
 
 Example: Portfolio of my university assignments completed by me for Academic purposes.
-
-![alt text](https://i.ytimg.com/vi/S5JDPi_6N2s/maxresdefault.jpg)
 
 
 ## Table of Contents
