@@ -35,14 +35,14 @@ Example: Portfolio of my university assignments completed by me for Academic pur
 3. [Name3](link3) : Desc3
 
 
-# License
-
-[Apache-2.0](http://www.apache.org/licenses/LICENSE-2.0)    
-
-
 # Contribution
 
 Have you spotted a typo, would you like to fix a link, or is there something you’d like to suggest? Browse the source repository of this article and open a pull request. I will do my best to review your proposal in due time.
+
+
+# License
+
+Licensed under [Apache-2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
